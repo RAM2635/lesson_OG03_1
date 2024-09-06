@@ -17,18 +17,12 @@
     ```bash
     pip install pygame
     ```
-3. Склонируйте этот репозиторий:
-    ```bash
-    git clone https://github.com/your-repository/game-popadi-v-korzinu.git
-    ```
-4. Запустите игру:
-    ```bash
-    python game.py
-    ```
+## Дополнительные материалы
+[Урок на Zerocoder University](https://university.zerocoder.ru/pl/teach/control/lesson/view?id=323446783)
 
 ## Скриншоты
 ![Пример игры](https://static.tildacdn.com/tild3964-3838-4262-b532-343361633633/Unknown.png)
-
+![img.png](img.png)
 ## Используемые технологии
 - Python
 - Pygame
