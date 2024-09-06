@@ -9,6 +9,9 @@ WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Игра попади в корзину")
 
+icon = pygame.image.load("logo3.png")
+pygame.display.set_icon(icon)
+
 # Цвета
 WHITE = (212, 255, 212)
 BLACK = (0, 0, 0)
