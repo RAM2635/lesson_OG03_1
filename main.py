@@ -9,6 +9,7 @@ WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Игра попади в корзину")
 
+# Загрузка иконки и изображений
 icon = pygame.image.load("screens/logo3.png")
 pygame.display.set_icon(icon)
 
