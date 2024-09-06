@@ -9,7 +9,7 @@ WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Игра попади в корзину")
 
-icon = pygame.image.load("logo3.png")
+icon = pygame.image.load("screens/logo3.png")
 pygame.display.set_icon(icon)
 
 # Цвета
@@ -22,8 +22,8 @@ cup_speed = 10
 basket_speed = 5
 
 # Загрузка изображений
-basket_img = pygame.image.load("basket40.png")
-cup_img = pygame.image.load("cup30.png")
+basket_img = pygame.image.load("screens/basket40.png")
+cup_img = pygame.image.load("screens/cup30.png")
 
 # Изменение размера изображений
 basket_width, basket_height = basket_img.get_size()
