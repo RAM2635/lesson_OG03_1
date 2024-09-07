@@ -21,8 +21,8 @@
 [Урок на Zerocoder University](https://university.zerocoder.ru/pl/teach/control/lesson/view?id=323446783)
 
 ## Скриншоты
-![Unknown420.png](screens/Unknown420.png)
-![img50.png](screens/img50.png)
+![Unknown240.png](screens/Unknown240.png)
+!![img240.png](screens/img240.png))
 ![im![img.gif](screens/img.gif)
 ## Используемые технологии
 - Python
