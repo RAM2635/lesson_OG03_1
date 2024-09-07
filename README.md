@@ -22,7 +22,7 @@
 
 ## Скриншоты
 ![Пример игры](https://static.tildacdn.com/tild3964-3838-4262-b532-343361633633/Unknown.png)
-![img.png](img.png)
+![img50.png](img50.png)
 ![im![img.gif](img.gif)
 ## Используемые технологии
 - Python
