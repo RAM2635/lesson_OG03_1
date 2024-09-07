@@ -21,9 +21,9 @@
 [Урок на Zerocoder University](https://university.zerocoder.ru/pl/teach/control/lesson/view?id=323446783)
 
 ## Скриншоты
-![Пример игры](https://static.tildacdn.com/tild3964-3838-4262-b532-343361633633/Unknown.png)
-![img50.png](img50.png)
-![im![img.gif](img.gif)
+![Unknown420.png](screens/Unknown420.png)
+![img50.png](screens/img50.png)
+![im![img.gif](screens/img.gif)
 ## Используемые технологии
 - Python
 - Pygame
